@@ -9,7 +9,7 @@ Operadores Relacionis
 """
 
 var_1 = 'JL'
-var_2 = 'MTT'
+var_2 = 'Trade'
 
 expressao = (var_1 != var_2)
 
