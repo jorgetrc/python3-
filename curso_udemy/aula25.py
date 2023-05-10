@@ -1,5 +1,5 @@
 """
-Interpolação básica de strings
+Formatação de básica de strings com fstrings 
 s - string
 d e i - int
 f - float
